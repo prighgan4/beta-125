@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 Totalbonus выдает  неправильный подсчет
-(ht(tps://github.com/prighgan4/beta-3/issues/1#issue-1024043799)
+(https://github.com/prighgan4/beta-3/issues/1#issue-1024043799)
 
 ## Описание процесса тестирования
 
